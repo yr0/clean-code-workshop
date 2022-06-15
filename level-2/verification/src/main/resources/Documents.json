@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Some title",
+    "owner": "Good Owner",
+    "url": "https://booking.com/document1.pdf",
+    "email": "good_owner@b.com"
+  },
+  {
+    "id": "2",
+    "title": "Another title",
+    "owner": "Fraudulent Owner",
+    "url": "https://booking.com/document2.pdf",
+    "email": "fr_owner@b.com"
+  },
+  {
+    "id": "3",
+    "title": null,
+    "owner": "Some Owner",
+    "url": "https://booking.com/document3.pdf",
+    "email": "some_owner@b.com"
+  },
+  {
+    "id": "4",
+    "title": "Another title",
+    "owner": null,
+    "url": "https://booking.com/document4.pdf",
+    "email": "cool_owner@b.com"
+  }
+]
