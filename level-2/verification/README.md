@@ -6,3 +6,10 @@ The "document" is a JSON that contains some fields and their values.
 Upon verification, the process is expected to "send" an email to the user urging them to fix the error with 
 their document. In a very special case when the document owner is a known fraudster, we want to register a notice at
 the fraud department.
+
+### Run instructions
+
+```
+mvn compile
+mvn exec:java -Dexec.mainClass=com.clean.verification.App
+```
